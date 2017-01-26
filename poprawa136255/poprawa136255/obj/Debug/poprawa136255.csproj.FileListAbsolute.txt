@@ -1,0 +1,6 @@
+C:\Users\local\Desktop\poprawa136255\poprawa136255\poprawa136255\bin\Debug\poprawa136255.exe.config
+C:\Users\local\Desktop\poprawa136255\poprawa136255\poprawa136255\obj\Debug\poprawa136255.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\poprawa136255\poprawa136255\poprawa136255\bin\Debug\poprawa136255.exe
+C:\Users\local\Desktop\poprawa136255\poprawa136255\poprawa136255\bin\Debug\poprawa136255.pdb
+C:\Users\local\Desktop\poprawa136255\poprawa136255\poprawa136255\obj\Debug\poprawa136255.exe
+C:\Users\local\Desktop\poprawa136255\poprawa136255\poprawa136255\obj\Debug\poprawa136255.pdb
